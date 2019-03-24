@@ -2,7 +2,7 @@
 
 This package contains datasets created from a collection of 14 English child language corpora in the Child Language Data Exchange System (CHILDES) (https://childes.talkbank.org). More information about the individual corpora can be found via the CHILDES website.
 
-## The 14 corpora:
+## The 14 Corpora:
 
 * [Bloom70](https://childes.talkbank.org/access/Eng-NA/Bloom70.html)
 * [Braunwald](https://childes.talkbank.org/access/Eng-NA/Braunwald.html)
@@ -20,16 +20,16 @@ This package contains datasets created from a collection of 14 English child lan
 * [Weist](https://childes.talkbank.org/access/Eng-NA/Weist.html)
 
 
-## Inclusion/Exclusion criteria:
+## Inclusion/Exclusion Criteria:
 
 This subset of corpora was chosen from the English North American collection of CHILDES based on the following criteria.
 
-### Corpora:
+### Corpora
 
 * Part of the Eng-NA section of CHILDES
 * Sufficient information about the details of the study and corpus is available
 
-### Participants:
+### Participants
 
 * 36-96 months old
 * English as first and primary language
@@ -68,4 +68,4 @@ remotes::install_github("gracelawley/childes")
 
 ## CHILDES Usage Rules
 
-CHILDES asks users to follow the data usage rules found [here](https://talkbank.org/share/rules.html).
+CHILDES is a part of the TalkBank database and asks users to follow the data usage rules found [here](https://talkbank.org/share/rules.html).
