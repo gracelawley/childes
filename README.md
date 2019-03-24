@@ -2,7 +2,7 @@
 
 This package contains datasets created from a collection of 14 English child language corpora in the Child Language Data Exchange System (CHILDES) (https://childes.talkbank.org). More information about the individual corpora can be found via the CHILDES website.
 
-## The 14 Corpora:
+## The 14 Corpora
 
 * [Bloom70](https://childes.talkbank.org/access/Eng-NA/Bloom70.html)
 * [Braunwald](https://childes.talkbank.org/access/Eng-NA/Braunwald.html)
@@ -20,7 +20,7 @@ This package contains datasets created from a collection of 14 English child lan
 * [Weist](https://childes.talkbank.org/access/Eng-NA/Weist.html)
 
 
-## Inclusion/Exclusion Criteria:
+## Inclusion/Exclusion Criteria
 
 This subset of corpora was chosen from the English North American collection of CHILDES based on the following criteria.
 
