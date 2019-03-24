@@ -1,0 +1,14 @@
+Package: childes
+Title: A Collection of Child Language Samples from 14 Corpora in CHILDES (2018.1)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Grace", "Lawley",
+           role = c("aut", "cre"),
+           email = "gracelawley@gmail.com")
+Description: Data from 14 corpora of child language samples in the CHILDES Database (2018.1).
+License: MIT + file LICENSE
+URL: "https://github.com/gracelawley/childes"
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1

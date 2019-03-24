@@ -1,0 +1,74 @@
+#' childes: A Collection of Child Language Samples from 14 Corpora in CHILDES (2018.1)
+#'
+#' An R package containing data from 14 English North American corpora of child language samples available for free in the Child Language Data Exchange System (CHILDES) (https://childes.talkbank.org).
+#'
+#'
+#'
+#' This package contains data from 14 corpora in CHILDES:
+#'
+#' \itemize{
+#'  \item{Bloom 1970}
+#'  \item{Braunwald}
+#'  \item{Brown}
+#'  \item{Clark}
+#'  \item{Cornell}
+#'  \item{Demetras}
+#'  \item{Ellis Weismer}
+#'  \item{Hall}
+#'  \item{Kuczaj}
+#'  \item{MacWhinney}
+#'  \item{Sachs}
+#'  \item{Suppes}
+#'  \item{Warren}
+#'  \item{Weist}
+#' }
+#'
+#' This subset of corpora was chosen based on the following criteria:
+#'
+#' Corpora:
+#' \itemize{
+#'  \item{Part of the Eng-NA section of CHILDES}
+#'  \item{Sufficient information about the details of the study and corpus is available}
+#' }
+#'
+#' Participants:
+#' \itemize{
+#'  \item{36-96 months old}
+#'  \item{English as first and primary language}
+#'  \item{No reported gross sensory impairments (e.g. hearing impairment),
+#'        congenital defects, developmental disabilities, or atypical development}
+#'  \item{No significant/regular exposure to another language (i.e. 75% or higher
+#'        consistent exposure to a language other than English)}
+#' }
+#'
+#' Language Sampling Procedure
+#' \itemize{
+#'  \item{Naturalistic and unscripted elicitations (in either naturalistic or
+#'        laboratory settings)}
+#'  \item{Intelligible speech}
+#'  \item{One-on-one conversations (e.g. child-examiner conversations or
+#'        parent-child conversations)}
+#'  \itemize{
+#'    \item{Can be child-child conversations as long as both children meet the
+#'          participant requirements}
+#'    \item{No conversations amongst a group of children}
+#'  }
+#'  \item{No reading from books, etc.}
+#'  \item{No restricted vocabulary that is caused by the structure of the study
+#'        or the experiment design}
+#'  \itemize{
+#'    \item{e.g. no samples of free play sesssions for multiple participants that
+#'          each involve the same set of experimenter-provided toys}
+#'  }
+#'  \item{No structured speech}
+#'  \itemize{
+#'   \item{e.g. speech from an interview that has been tailored for a specific
+#'         experimental interest(s)}
+#'  }
+#' }
+#'
+#'
+#' @docType package
+#' @name childes
+#'
+NULL
