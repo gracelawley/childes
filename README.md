@@ -1,6 +1,6 @@
 # childes
 
-This package contains datasets created from a collection of 14 English child language corpora in the Child Language Data Exchange System (CHILDES) (https://childes.talkbank.org). More information about the individual corpora can be found via the CHILDES website.
+This package contains datasets created from a collection of 14 English child language corpora in the Child Language Data Exchange System (CHILDES). The transcripts are from the `childes-db` (version 2018.1) and are accessed with the [`childesr`] (https://CRAN.R-project.org/package=childesr) package.
 
 ## The 14 Corpora
 
@@ -19,6 +19,7 @@ This package contains datasets created from a collection of 14 English child lan
 * [Warren](https://childes.talkbank.org/access/Eng-NA/Warren.html)
 * [Weist](https://childes.talkbank.org/access/Eng-NA/Weist.html)
 
+More information about the individual corpora can be found via the CHILDES website.
 
 ## Inclusion/Exclusion Criteria
 
@@ -69,3 +70,17 @@ remotes::install_github("gracelawley/childes")
 ## CHILDES Usage Rules
 
 CHILDES is a part of the TalkBank database and asks users to follow the data usage rules found [here](https://talkbank.org/share/rules.html).
+
+Except where otherwise indicated, the use of TalkBank data is governed by the [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/3.0/) CC BY-NC-SA 3.0 license.
+
+## Works Cited
+
+### The CHILDES database
+
+CHILDES: MacWhinney, B. (2000). The CHILDES Project: Tools for analyzing talk. Third Edition. Mahwah, NJ: Lawrence Erlbaum Associates.
+
+### `childes-db`
+
+ Sanchez, A., Meylan, S., Braginsky, M., MacDonald, K. E., Yurovsky, D., & Frank, M. C. (2018, April 23). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. Retrieved from psyarxiv.com/93mwx
+ 
+
