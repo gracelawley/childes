@@ -75,11 +75,7 @@ Except where otherwise indicated, the use of TalkBank data is governed by the [C
 
 ## Works Cited
 
-### The CHILDES database
-
 CHILDES: MacWhinney, B. (2000). The CHILDES Project: Tools for analyzing talk. Third Edition. Mahwah, NJ: Lawrence Erlbaum Associates.
-
-### `childes-db`
 
  Sanchez, A., Meylan, S., Braginsky, M., MacDonald, K. E., Yurovsky, D., & Frank, M. C. (2018, April 23). childes-db: a flexible and reproducible interface to the Child Language Data Exchange System. Retrieved from psyarxiv.com/93mwx
  
