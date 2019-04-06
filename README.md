@@ -1,6 +1,6 @@
 # childes
 
-This package contains datasets created from a collection of 14 English child language corpora in the Child Language Data Exchange System (CHILDES). The transcripts are from the `childes-db` (version 2018.1) and are accessed with the [`childesr`] (https://CRAN.R-project.org/package=childesr) package.
+This package contains datasets created from a collection of 14 English child language corpora in the Child Language Data Exchange System (CHILDES). The transcripts are from the `childes-db` (version 2018.1) and are accessed with the `childesr` package.
 
 ## The 14 Corpora
 
